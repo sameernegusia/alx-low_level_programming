@@ -1,6 +1,5 @@
 #include "main.h"
 /**
- *
  *   add - Sum of two integers
  *   @A: Integer A
  *   @B: Integer B
