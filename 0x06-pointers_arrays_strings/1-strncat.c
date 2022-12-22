@@ -7,8 +7,7 @@
  * @n: the number of bytes from @src
  * Return: a pointer to the resulting string @dest
  */
-har *_strncat(char *dest, char *src, int n)
-
+char *_strncat(char *dest, char *src, int n)
 {
 	int len1 = 0; /* string length for src */
 	int len2 = 0; /* string length for dest */
